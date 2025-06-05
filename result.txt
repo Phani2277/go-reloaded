@@ -1,0 +1,10 @@
+HELLO WORLD.
+This is a test.
+
+capitalize This.
+Numbers: 26, 10.
+Articles: An apple is red. A banana is yellow. A university is big. An hour is short.
+A A A A
+a a a a a a a
+Punctuation: Hello, world! This is a test.
+Apostrophes: 'This is quoted' and 'this too'. Also 'word1' 'word2'. And 'Hello, world!'.
